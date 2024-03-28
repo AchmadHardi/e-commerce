@@ -30,7 +30,7 @@ This is a e-commerce platform I made mostly using Laravel ^8.3
 Clone repo
 
 ```
-git clone https://github.com/Md-shefat-masum/Laravel-Ecommerce.git
+git clone https://github.com/AchmadHardi/e-commerce.git
 ```
 
 Install Composer
@@ -92,3 +92,4 @@ php artisan key:generate
 [Install]:#install
 [How to setting]:#how-to-setting
 [License]:#license
+"# e-commerce" 
